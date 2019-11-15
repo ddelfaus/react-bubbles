@@ -27,7 +27,7 @@ axiosWithAuth()
 
 return (
     <div>
-     <h1> React Bubbles Login</h1>
+     <h1> React Bubble Login</h1>
         <form onSubmit={login}>
             <input 
                 type ="text"
